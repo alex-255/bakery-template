@@ -1,0 +1,13 @@
+body, ul {
+    margin: 0;
+}
+
+.hero-section {
+    min-height: 100vh;
+    background: url(./layers/img-15.png), radial-gradient(circle at center, rgba(86,79,76,0.9) 0%, rgba(86,83,76,0) 100%, rgba(86,83,76,0) 100%);;
+}
+
+.top-bar {
+    min-height: 70px;
+    background-color: rgba(86,83,76,0.529);
+}
